@@ -16,7 +16,7 @@ Resources
 
 body {
   background: #007bff;
-  background: linear-gradient(to top, #000000, #9D81D9);
+  background: linear-gradient(to bottom, #000000, #000000);
 }
 
 .card-signin {
@@ -170,3 +170,4 @@ a.button3:hover{
   margin:0.2em auto;
  }
 }
+
