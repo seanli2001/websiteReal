@@ -16,7 +16,7 @@ Resources
 
 body {
   background: #007bff;
-  background: linear-gradient(to bottom, #000000, #000000);
+  background-image:url("gala.jpg")
 }
 
 .card-signin {
